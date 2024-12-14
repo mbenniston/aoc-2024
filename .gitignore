@@ -3,3 +3,4 @@ cmake-*
 .cache/
 .vscode/
 .idea/
+**/input.txt
