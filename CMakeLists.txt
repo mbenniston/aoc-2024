@@ -44,3 +44,6 @@ add_executable(aoc_2024_day_13_part_2 day_13/day_13_part_2.c)
 
 add_executable(aoc_2024_day_14_part_1 day_14/day_14_part_1.c)
 add_executable(aoc_2024_day_14_part_2 day_14/day_14_part_2.c)
+
+add_executable(aoc_2024_day_15_part_1 day_15/day_15_part_1.c)
+add_executable(aoc_2024_day_15_part_2 day_15/day_15_part_2.c)
